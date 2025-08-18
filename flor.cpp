@@ -13,7 +13,7 @@ void desenhaPetala(float r, float g, float b){
 	glBegin(GL_POLYGON);
 		glVertex2i(250, 250);
 		glVertex2i(230, 200);
-		glVertex2i(270, 200);
+		glVertex2i(270, 200);p
 	glEnd();
 }
 
